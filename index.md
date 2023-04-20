@@ -15,6 +15,11 @@
 
 ## **Part 2: Remotely Connecting**
 - Step 1: Open your VS Code terminal 
+ ![Image](terminal.png)
+  It should look something like this. If you cannot find it, it may be hidden. On the bottom left corner, click on the circle with an x in the middle. This   should pop up a menu where you can then click on terminal. 
+  
+  
+## **Part 3: Running Some Commands**
 
 
 `Click this` [Link](https://code.visualstudio.com/)	`to learn more about the dog!`
