@@ -1,23 +1,32 @@
 # Getting Set Up!
 ---
 ## *Today we will focus on:*
+```
 1. Downloading Visual Studio Code
 2. Remotely Connecting 
 3. Running Some Commands 
+``` 
 ---
 
 
+> **Part 1: Downloading Visual Studio Code**
+- Step 1: Go to the Visual Studio Code [Website](https://code.visualstudio.com/) 
+- Step 2: Follow the instructions to download and install it on your computer (make sure to click the right link one based on what kind of computer you have)
+- Step 3: Open the application once it is done installing. It should look something like this
+ ![Image](http://url/a.png)
 
-![Image](golden doodle.jpeg)
 
-> **1. They are a mix of:**
-- Golden Retrievers 
-- Poodles
+
+
+
+
 
 > **2. They are also very friendly**
 
 
-`Click this` [Link](https://www.dailypaws.com/dogs-puppies/dog-breeds/goldendoodle)	`to learn more about the dog!`
+
+
+`Click this` [Link](https://code.visualstudio.com/)	`to learn more about the dog!`
 
 ```
 Golden Doodles are my favorite dog breed. 
