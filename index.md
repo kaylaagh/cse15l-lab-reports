@@ -1,6 +1,13 @@
-# Golden Doodles
+# Getting Set Up!
 ---
-## *This is what a Golden Doodle looks like:*
+## *Today we will focus on:*
+1. Downloading Visual Studio Code
+2. Remotely Connecting 
+3. Running Some Commands 
+---
+
+
+
 ![Image](golden doodle.jpeg)
 
 > **1. They are a mix of:**
