@@ -9,7 +9,7 @@
 ---
 
 
-> **Part 1: Downloading Visual Studio Code**
+**Part 1: Downloading Visual Studio Code**
 - Step 1: Go to the Visual Studio Code [Website](https://code.visualstudio.com/) 
 - Step 2: Follow the instructions to download and install it on your computer (make sure to click the right link one based on what kind of computer you have)
 - Step 3: Open the application once it is done installing. It should look something like this
@@ -21,7 +21,7 @@
 
 
 
-> **2. They are also very friendly**
+**2. They are also very friendly**
 
 
 
