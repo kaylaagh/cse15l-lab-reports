@@ -17,8 +17,9 @@
 - Step 1: Open your VS Code terminal 
  ![Image](terminal.png)
   It should look something like this. If you cannot find it, it may be hidden. On the bottom left corner, click on the circle with an x in the middle. This   should pop up a menu where you can then click on terminal. 
+  
 - Step 2: Checking for Git
-  If you are a mac user, skip this step. For Windows users, install `git` for [Windows](https://gitforwindows.org/). Once installed, follow the               instructions on this [Link](https://code.visualstudio.com/](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994)) to set your default terminal to use `git-bash` in VS Code.
+  If you are a mac user, skip this step. For Windows users, install `git` for [Windows](https://gitforwindows.org/). Once installed, follow the               instructions on this [Link](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) to set your default terminal to use `git-bash` in VS Code. Next, open a terminal in VS Code to use `ssh`. 
   
 
   
