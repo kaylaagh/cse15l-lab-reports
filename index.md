@@ -17,7 +17,6 @@
 - Step 1: Open your VS Code terminal 
 
 
-
 `Click this` [Link](https://code.visualstudio.com/)	`to learn more about the dog!`
 
 ```
