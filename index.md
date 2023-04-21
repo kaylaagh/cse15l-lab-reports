@@ -92,3 +92,4 @@
   
   ![Image](commands.png)
  
+  Once you are done, you can log out of the remote server by using `Ctrl-D` or run the command `exit`.
