@@ -12,7 +12,7 @@
 - Step 2: Click on the download button up on the top right and follow the instructions to download/install it on your computer (make sure to click on the right link based on what kind of computer you have)
 - Step 3: Open the application once it is done installing. It should look something like this
  ![Image](vscode window.png)
-
+---
 ## **Part 2: Remotely Connecting**
 - Step 1: Open your VS Code terminal 
  ![Image](terminal.png)
@@ -26,6 +26,15 @@
 
   Once your terminal is open, run this command `$ ssh cs15lsp23zz@ieng6.ucsd.edu`. Replace the `zz` with the letters in your course-specific account. Remember that the `$` sign should NOT be typed in!
   
+  After running the command, you might see something like this (if it's your first time)
+  ```
+  ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+  The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
+  RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
+  Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+  ```
+  Don't worry, this is normal. Just type `yes` and press enter!
+---
 ## **Part 3: Running Some Commands**
 
 
