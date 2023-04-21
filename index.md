@@ -68,12 +68,27 @@
  
 ---
 
-## **Part 3: Running Some Commands**
+## **Part 3: Run Some Commands**
+- Step 1: Running Commands
+ There are infinite amount of commands we can run such as 
+ 
+  `cd ~`
+  
+  `cd`
+ 
+  `ls`
+ 
+  `ls -a`
+ 
+  `ls -lat`
+ 
+  `ls <directory>`
+ 
+  `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+ 
+  `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
 
-
-`Click this` [Link](https://code.visualstudio.com/)	`to learn more about the dog!`
-
-```
-Golden Doodles are my favorite dog breed. 
-```
+  Here are some examples of running a few of the commands!
+  
+  ![Image](commands.png)
  
