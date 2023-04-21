@@ -12,7 +12,9 @@
 - Step 2: Click on the download button up on the top right and follow the instructions to download/install it on your computer (make sure to click on the right link based on what kind of computer you have)
 - Step 3: Open the application once it is done installing. It should look something like this
  ![Image](vscode window.png)
+ 
 ---
+
 ## **Part 2: Remotely Connecting**
 - Step 1: Open your VS Code terminal 
  ![Image](terminal.png)
@@ -65,6 +67,7 @@
   Once you successfully log in, your terminal will now be connected to a computer in the CSE basement! So any commands you   run will run on that computer. Your computer is the *client* and the computer in the basement is the *server*.
  
 ---
+
 ## **Part 3: Running Some Commands**
 
 
