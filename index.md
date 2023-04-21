@@ -70,7 +70,7 @@
 
 ## **Part 3: Run Some Commands**
 - Step 1: Running Commands
- There are infinite amount of commands we can run such as 
+ There are infinite amount of commands we can run. Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times to see what happens! Here are some other commands you can try as well:
  
   `cd ~`
   
