@@ -61,6 +61,9 @@
   **OR THIS**
   
   ![Image](ieng.png)
+  
+  Once you successfully log in, your terminal will now be connected to a computer in the CSE basement! So any commands you   run will run on that computer. Your computer is the *client* and the computer in the basement is the *server*.
+ 
 ---
 ## **Part 3: Running Some Commands**
 
