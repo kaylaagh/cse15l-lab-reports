@@ -19,6 +19,7 @@
 public void testReversed2() {
   int [] input2 = {1, 2, 3, 4, 5};
   assertArrayEquals(new int {5, 4, 3, 2, 1}, ArrayExamples.reversed(input2));
+}
 ```
 - An input that doesn't induce a failure
 ```
@@ -26,6 +27,7 @@ public void testReversed2() {
 public void testReversed2() {
   int [] input = { 3 };
   assertArrayEquals(new int { 3 }, ArrayExamples.reversed(input));
+}
 ```
 - The Symptom
 ![Image](symptoms2.png)
