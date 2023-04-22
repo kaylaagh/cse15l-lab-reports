@@ -10,7 +10,7 @@
 ---
 ## **Part 1: Getting Your CSE15L Account**
 - Step 1: Lookup your course specific account by logging in, using this [link](https://sdacs.ucsd.edu/~icc/index.php)
-- Step. 2: Follow the instructions on this [page](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to reset your password. Once you are finished, you can move on to the next part!
+- Step 2: Follow the instructions on this [page](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to reset your password. Once you are finished, you can move on to the next part!
 ---
 
 ## **Part 2: Downloading Visual Studio Code**
