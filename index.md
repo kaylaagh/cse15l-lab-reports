@@ -8,9 +8,11 @@
 4. Running Some Commands 
 ``` 
 ---
+
 ## **Part 1: Getting Your CSE15L Account**
 - Step 1: Lookup your course specific account by logging in, using this [link](https://sdacs.ucsd.edu/~icc/index.php)
 - Step 2: Follow the instructions on this [page](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to reset your password. Once you are finished, you can move on to the next part!
+
 ---
 
 ## **Part 2: Downloading Visual Studio Code**
@@ -18,6 +20,7 @@
 - Step 2: Click on the download button up on the top right and follow the instructions to download/install it on your computer (make sure to click on the right link based on what kind of computer you have)
 - Step 3: Open the application once it is done installing. It should look something like this
  ![Image](vscode window.png)
+ 
 ---
 
 ## **Part 3: Remotely Connecting**
