@@ -2,20 +2,25 @@
 ---
 *Today we will focus on:*
 ```
-1. Downloading Visual Studio Code
-2. Remotely Connecting 
-3. Running Some Commands 
+1. Getting Your CSE15L Account   
+2. Downloading Visual Studio Code
+3. Remotely Connecting 
+4. Running Some Commands 
 ``` 
 ---
-## **Part 1: Downloading Visual Studio Code**
+## **Part 1: Getting Your CSE15L Account**
+- Step 1: Lookup your course specific account by logging in, using this [link](https://sdacs.ucsd.edu/~icc/index.php)
+- Step. 2: Follow the instructions on this [page](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) to reset your password. Once you are finished, you can move on to the next part!
+---
+
+## **Part 2: Downloading Visual Studio Code**
 - Step 1: Go to the Visual Studio Code [Website](https://code.visualstudio.com/) 
 - Step 2: Click on the download button up on the top right and follow the instructions to download/install it on your computer (make sure to click on the right link based on what kind of computer you have)
 - Step 3: Open the application once it is done installing. It should look something like this
  ![Image](vscode window.png)
- 
 ---
 
-## **Part 2: Remotely Connecting**
+## **Part 3: Remotely Connecting**
 - Step 1: Open your VS Code terminal 
  ![Image](terminal.png)
   It should look something like this. If you cannot find it, it may be hidden. On the bottom left corner, click on the circle with an x in the middle. This   should pop up a menu where you can then click on terminal. 
@@ -68,7 +73,7 @@
  
 ---
 
-## **Part 3: Run Some Commands**
+## **Part 4: Run Some Commands**
 - Step 1: Running Commands
  There are infinite amount of commands we can run. Try running the commands `cd`, `ls`, `pwd`, `mkdir`, and `cp` a few times to see what happens! Here are some other commands you can try as well:
  
