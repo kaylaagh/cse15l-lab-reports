@@ -1,4 +1,4 @@
-# Getting Set Up!
+# Lab Report 1 - Remote Access and FileSystem
 ---
 *Today we will focus on:*
 ```
