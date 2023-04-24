@@ -9,6 +9,19 @@
 ---
 
 ## **Part 1: Writing a Web Server**
+- Code for StringServer:
+
+![Image](stringserver.png)
+
+- Screenshots Using  `/add-message`:
+
+`/add-message?s=Hello`
+
+![Image](hello.png)
+
+`/add-message?s=How are you`
+
+![Image](howareyou.png)
 
 ---
 
