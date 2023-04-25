@@ -9,17 +9,17 @@
 ---
 
 ## **Part 1: Writing a Web Server**
-- Code for StringServer:
+**1. Code for StringServer:**
 
 ![Image](stringserver.png)
 
-- Screenshots Using  `/add-message`:
+**2. Screenshots Using  `/add-message`:**
 
 `/add-message?s=Hello`
 
 ![Image](hello.png)
 
-**Questions:** 
+**3a. Questions:** 
 - The `getPath()` and `getQuery()` method are both called as well as the built-in `.equals()` method
 - The relevenat arguments for path include everying past the forward slash `/` while the relevant arguments for query gets split between the equal sign, `args[0]` is "s" while `args[1]` is the string you want to print out which is in this case "Hello".
 - In NumberServer.java we were incrementing numbers which uses ints. In StringServer.java we are printing out Strings that the user wants to display. They both add the message or number everytime that it gets run again so that the message is displayed after the previous one or the number gets added to the total from before. 
@@ -29,7 +29,7 @@
 
 ![Image](howareyou.png)
 
-**Questions:** 
+**3b. Questions:** 
 - The `getPath()` and `getQuery()` method are both called as well as the built-in `.equals()` method
 - The relevenat arguments for path include everying past the forward slash `/` while the relevant arguments for query gets split between the equal sign, `args[0]` is "s" while `args[1]` is the string you want to print out which is in this case "How are you".
 - In NumberServer.java we were incrementing numbers which uses ints. In StringServer.java we are printing out Strings that the user wants to display. They both add the message or number everytime that it gets run again so that the message is displayed after the previous one or the number gets added to the total from before. 
