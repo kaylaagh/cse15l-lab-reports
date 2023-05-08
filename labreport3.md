@@ -12,7 +12,7 @@ Some command line options for less include:
 - `-X`
 
 ---
-**1. `less -N`**
+**Option 1. `less -N`**
 
 **Command: `less -N ./technical/plos/pmed.0020281.txt`**
 
@@ -206,7 +206,7 @@ Some command line options for less include:
 - https://phoenixnap.com/kb/less-command-in-linux#:~:text=Note%3A%20By%20default%2C%20searching%20in,phrase%20and%20see%20the%20results.
 
 ---
-**2. `less -F`**
+**Option 2. `less -F`**
 
 **Command: `less -F ./technical/plos/pmed.0020281.txt`**
 
@@ -271,7 +271,7 @@ Some command line options for less include:
 
 
 ---
-**3. `less -g`**
+**Option 3. `less -g`**
 
 **Command: `less -g ./technical/plos/pmed.0020191.txt ./technical/plos/pmed.0020281.txt`**
 
@@ -432,7 +432,7 @@ Some command line options for less include:
 
 
 ---
-**4. `less -X`**
+**Option 4. `less -X`**
 
 **Command: `less -X ./technical/biomed/1471-2490-3-2.txt`**
 
