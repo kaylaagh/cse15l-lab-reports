@@ -106,7 +106,6 @@
   1. `git <space> add ListExamples.java <enter>`
   2. `git <space> commit -m "fixed error" <enter>`
   3. `git <space> push`
-  4. `git <space> push origin main`
   
 
-- Summary: I used the git add command to save save my changes that i made and then git commit to commit the changes too with the message "fixed error". I tried pushing the changes but it said that Authentication failed for 'https://github.com/ucsd-cse15l-s23/lab7.git/' and i tried generating the different keys and i still wasn't able to push the changes 
+- Summary: I used the git add command to save save my changes that i made and then git commit to commit the changes too with the message "fixed error". Then I used git push in order to push the changes to the repo.
