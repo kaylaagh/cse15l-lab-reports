@@ -25,7 +25,8 @@ Good Luck editing!
 **3. Edit**
 
 Output:
-    ![Image](success1.png)
+
+![Image](success1.png)
 
 Bug:
 
