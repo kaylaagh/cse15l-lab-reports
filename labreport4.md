@@ -36,7 +36,7 @@
 
 - Keys Pressed: 
   
-  1. `git <space> clone <space> <command+v>`
+  1. `git <space> clone <space> <command+v> <enter>`
 
 - Summary: I used the commang git clone in order to clone the repository into my account. 
   
