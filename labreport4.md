@@ -16,15 +16,14 @@
 - Screenshot:
 
 
-  ![Image](ieng6.png)
+  ![Image](sshieng6.png)
 
 
 - Keys Pressed: 
   1. `ssh <space> cs15lsp23eg<shift+2>@ieng6.ucsd.edu <enter>`
-  2. `enter password`
 
 
-- Summary: I just ssh'd into my 15l account and logged in by putting my password in. 
+- Summary: I just ssh'd into my 15l account without having to put in my password because of the generated key. 
 
 
 ---
@@ -33,7 +32,7 @@
 
 - Screenshot:
   
-  ![Image](clone.png)
+  ![Image](clone1.png)
 
 - Keys Pressed: 
   
