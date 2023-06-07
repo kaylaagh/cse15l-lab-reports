@@ -1,4 +1,4 @@
-# Lab Report 5 - Debugging and Reflection 
+# Lab Report 5 - Putting it All Together
 ---
 *Today we will focus on:*
 ```
