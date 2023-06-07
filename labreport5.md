@@ -15,7 +15,7 @@
 
 **2. TA Response**
 
-Hi! It looks like the issue is within the `ListExamples.java` file that is causing an `AssertionError`. It also seems like you are returning the `result` twice which should only be returned at the end. Have you tried looking at that? Also it looks like the `if` statement in the `merge` method is missing a key thing. Hava a look at those two things out and then run the -cp commands again to see if that changes anything. Good Luck editing!
+Hi! It looks like the issue is within the `ListExamples.java` file that is causing an `AssertionError`. It also seems like you are returning the `result` twice which should only be returned at the end. Have you tried looking at that? Also, it looks like the `if` statement in the `merge` method is missing a key thing. Have a look at those two things and then run the -cp commands again to see if that changes anything. Good Luck editing!
 
 **3. Edit**
 
