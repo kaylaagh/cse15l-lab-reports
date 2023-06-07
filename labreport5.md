@@ -10,19 +10,18 @@
 ## **Part 1: Debugging Scenario**
 **1. EdStem Post:** 
 
-  ![Image](edstem1.png)
+  ![Image](edstem3.png)
+  ![Image](edstem2.png)
 
 **2. TA Response**
 
-Hi! It looks like the issue involves the JUit package in VS Code. Since JUnit is an external library it requires some special     commands in order for it to compile properly. Have you tried using the -cp commands? If not, they are listed below:
-
-`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
-   
-`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests`
-
-Good Luck editing!
+Hi! It looks like the issue is within the `ListExamples.java` file that is causing an `AssertionError`. It also seems like you are returning the `result` twice which should only be returned at the end. Have you tried lookiing at that? Also it looks like the `if` statement in the `merge` method is missing a key thing. Hava a look at those two things out and then run the -cp commands again to see if that changes anything. Good Luck editing!
 
 **3. Edit**
+
+Fixed Code:
+
+![Image](fixed.png)
 
 Output:
 
@@ -30,15 +29,14 @@ Output:
 
 Bug:
 
-It looks like the bug involved not using the right command in order to run JUnit. The command that triggered the bug was 
-`javac ListExamplesTests.java`. Like the TA said, JUnit is an external library so we had to run a special command in order to run the program. Using the javac -cp and java -cp commands worked and allowed us to check if the tests passed, which they both did. This might of happened since in CSE 11 we didnt use the -cp part. 
+It looks like the bug involved returning the `result` of merge twice. So I deleted the one after the `if` statement and then realized that I was also missing `index1 += 1;` within the if statement as well that fixed the `AssertionError`. Changing these two things made both of the tests pass so the TA was right about my errors. 
 
 
 **4. Setup**
-- File and Directory Structure: This repo was the lab7 one and I used ListExamplesTests.java to showcase the debugging scenario. 
-- Contents: I didnt change any contents of the file itself since it was a problem in the command line.
-- Command that triggred the bug: `javac ListExamplesTests.java`
-- What I did to fix the bug: I did what the TA said and ran javac ande java with the -cp part in order to run JUnit properly. 
+- File and Directory Structure: This repo was the lab7 one and I used ListExamples.java to showcase the debugging scenario. 
+- Contents: The contents before I fixed the bug is attached in the edStem post.
+- Command that triggred the bug: The javac -cp and java -cp commands which triggered the bug since it was running the tests.
+- What I did to fix the bug: I did what the TA said and fixed the mistakes of returning the result and if statement. 
 
 ---
 
